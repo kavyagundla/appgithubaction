@@ -1,1 +1,1 @@
-## this is for automated testing for python application
+## this is for automated testing - python application
